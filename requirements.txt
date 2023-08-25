@@ -7,3 +7,4 @@ astropy
 scipy
 chiantipy
 scikit-learn
+tqdm
